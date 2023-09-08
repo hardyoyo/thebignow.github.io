@@ -1,29 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to The Big Now!"
 date:   2023-08-31 13:52:40 -0500
-categories: jekyll update
+categories: thebignow update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hey there,
 
-Jekyll requires blog post files to be named according to the following format:
+Welcome to **The Big Now**, the digital home where the past and the present come 
+together. This site started its journey as a literary magazine back in the 90s, 
+but it has evolved into something more—a canvas for personal projects and a 
+space for exploration.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Here, you'll find a mix of creativity, a glimpse into my world, and maybe even a 
+few surprises along the way. Whether you're here out of nostalgia or curiosity, 
+I'm thrilled to have you join me on this digital adventure.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Stay tuned for updates on my latest projects, thoughts on various topics, and 
+who knows what else might pop up in **The Big Now**. So, kick back, explore, and 
+let's make this journey together.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> “Have you ever heard the wonderful silence just before the dawn? Or the quiet 
+> and calm just as a storm ends? Or perhaps you know the silence when you 
+> haven't the answer to a question you've been asked, or the hush of a country 
+> road at night, or the expectant pause of a room full of people when someone 
+> is just about to speak, or, most beautiful of all, the moment after the door 
+> closes and you're alone in the whole house? Each one is different, you know, 
+and all very beautiful if you listen carefully.”
+> ― Norton Juster, The Phantom Tollbooth
